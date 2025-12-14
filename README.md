@@ -27,6 +27,7 @@
 | **JohnsonRan** | **AIB / AIO** | 经典大众配置，含国家分组、去广告等 | [查看 AIB](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/JohnsonRan/AIB.yaml) / [查看 AIO](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/JohnsonRan/AIO.yaml) |
 | **Yiteei** | **Fake-IP / Redir** | 注释极其完整，适合进阶学习 | [查看 Fake-IP](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/Yiteei/fake-ip_config.yaml) / [查看 Redir](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/Yiteei/redir-host_config.yaml) |
 | **liandu2024** | **Fallback 系列** | 侧重高可用性 (Fallback) 的各类变种 | [浏览文件夹](https://github.com/HenryChiao/mihomo_yamls/tree/main/General_Config/liandu2024) |
+| **Lanlan13-14** | **Config Full 系列** | 涵盖全量、精简(Lite)及去广告(NoAd)版 | [Full](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/Lanlan13-14/configfull.yaml) / [Lite](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/Lanlan13-14/configfull_lite.yaml) / [NoAd](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/Lanlan13-14/configfull_NoAd.yaml) |
 | **yyhhyyyyyy** | **Single / Multi** | 自用代理配置，分单/多节点版 | [查看 Single](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml) / [查看 Multi](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml) |
 | **其他** | **精选配置** | echs-top / qichiyuhub / iKeLee / Fᴜғᴜ | [echs](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) / [qichi](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/qichiyuhub/config.yaml) / [iKeLee](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) / [Fᴜғᴜ](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/fufu/ConfigForClash.yaml) |
 
@@ -68,6 +69,6 @@
 
 本仓库文件聚合自以下开源项目，**感谢所有乐于分享的热心网友！**
 
-* **配置大佬**: [HenryChiao](https://github.com/HenryChiao), [666OS](https://github.com/666OS), [JohnsonRan](https://github.com/JohnsonRan), [yiteei](https://github.com/yiteei), [liandu2024](https://github.com/liandu2024), [yyhhyyyyyy](https://github.com/yyhhyyyyyy), [echs-top](https://github.com/echs-top), [qichiyuhub](https://github.com/qichiyuhub), [iKelee](https://github.com/luestr)
+* **配置大佬**: [HenryChiao](https://github.com/HenryChiao), [666OS](https://github.com/666OS), [JohnsonRan](https://github.com/JohnsonRan), [yiteei](https://github.com/yiteei), [liandu2024](https://github.com/liandu2024), [yyhhyyyyyy](https://github.com/yyhhyyyyyy), [echs-top](https://github.com/echs-top), [qichiyuhub](https://github.com/qichiyuhub), [iKelee](https://github.com/luestr), [Lanlan13-14](https://github.com/Lanlan13-14/Rules)
 * **手机模块**: [Surfing](https://github.com/GitMetaio/Surfing), [AkashaProxy](https://github.com/akashaProxy/akashaProxy), [ClashMix](https://github.com/AXEVO/Clash-MIX), [BoxProxy](https://github.com/boxproxy/box)
 * **官方示例**: [MihomoWiki](https://wiki.metacubex.one/)
