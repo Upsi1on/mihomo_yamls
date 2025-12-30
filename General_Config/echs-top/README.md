@@ -8,7 +8,7 @@
 
 ### 📝 mihomo.yaml
 - **大小**: 27.2 KB
-- **链接**: [查看源码](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
+- **链接**: [查看源码](https://github.com/Upsi1on/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 
 #### 📶 网络端口配置 (Ports)
 | 类型 | 端口/地址 | 说明 |
@@ -18,26 +18,26 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (40个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (38个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 直接连接 | `select` |
 | 👆 代理连接 | `select` |
 | 👆 国外DNS | `select` |
-| 👆 国外QUIC | `select` |
 | 👆 FCM推送 | `select` |
+| 👆 BILIBILI | `select` |
 | 👆 TELEGRAM | `select` |
 | 👆 META | `select` |
 | 👆 TWITTER | `select` |
 | 👆 TIKTOK | `select` |
-| 👆 BILIBILI | `select` |
 | 👆 NETFLIX | `select` |
 | 👆 SPOTIFY | `select` |
 | 👆 PIXIV | `select` |
 | 👆 国外AI | `select` |
+| 👆 ONEDRIVE下载 | `select` |
 | 👆 GITHUB | `select` |
-| ... | 还有 25 个 |
+| ... | 还有 23 个 |
 
 </details>
 
@@ -58,4 +58,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 27.2 KB | [查看](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 27.2 KB | [查看](https://github.com/Upsi1on/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
