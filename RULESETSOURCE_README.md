@@ -46,6 +46,33 @@
 | **CHIZI-0618** | V2Ray 规则数据 | [GitHub](http://github.com/CHIZI-0618/v2ray-rules-dat) |
 | **xixu-me** | RFM | [GitHub](https://github.com/xixu-me/rfm) |
 
+<br/>
+
+## ⛔️ 防广告规则集 (Anti-ADs)
+
+专注于去广告的规则集合。
+
+> [!TIP]
+> **关于拦截效果的说明**
+> <br>单纯的 **域名/IP 规则集** 对现今复杂的网页/应用内广告防护能力有限。
+> <br>拦截效果排序：**规则集 < MitM 重写 < 浏览器插件 (如 uBlock Origin)**。
+
+| 项目 / 维护者 | 覆盖与备注 | 链接 |
+| :--- | :--- | :---: |
+| **anti-AD** 🔥 | **[极广]** 适配 AdGuard, Mihomo, Sing-box, Surge 等全平台。 | [GitHub](https://github.com/privacy-protection-tools/anti-AD) |
+| **217heidai** (黑带) 🔥 | **[较广]** 主要是 Domain Set。不支持 MosDNS。 | [GitHub](https://github.com/217heidai/adblockfilters) |
+| **AdRules** (Cats-Team) | **[较广]** 适配 AdGuard, MosDNS, Clash, Sing-box, QX, Surge 等。 | [GitHub](https://github.com/Cats-Team/AdRules) |
+| **AWAvenue** (秋风) | **[中等]** Sing-box 仅 json，Mihomo 仅 yaml。不支持 SmartDNS。 | [GitHub](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) |
+
+<br/>
+
+## 🎮 游戏规则 (Game Rules)
+
+部分逻辑参考或从以下项目中汲取灵感。
+
+| 项目 / 维护者 | 说明 | 链接 |
+| :--- | :--- | :---: |
+| **FQrabbit** | SSTap 规则，经典的加速器规则来源 | [GitHub](https://github.com/FQrabbit/SSTap-Rule/tree/master/rules) |
 
 <br/>
 
@@ -56,16 +83,6 @@
 | 项目 / 维护者 | 说明 | 链接 |
 | :--- | :--- | :---: |
 | **bmoqing** | Clash 精美图标库 | [GitHub](https://github.com/bmoqing/clash_icon) |
-
-<br/>
-
-## 游戏规则
-
-部分逻辑参考或从以下项目中汲取灵感。
-
-| 项目 / 维护者 | 说明 | 链接 |
-| :--- | :--- | :---: |
-| **FQrabbit** | SSTap 规则 | [GitHub](https://github.com/FQrabbit/SSTap-Rule/tree/master/rules) |
 
 ---
 
