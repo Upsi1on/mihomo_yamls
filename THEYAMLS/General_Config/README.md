@@ -8,13 +8,13 @@
 
 | 特性 | `mihomo.yaml` | `config.yaml` | `MihomoPro_Config.yaml` | `OneTouch_Config.yaml` | `config.yaml` | `configfull_NoAd.yaml` | `configfull_lite.yaml` | `configfull.yaml` | `clash-fallback-std.yaml` | `clash-fallback.yaml` | `clash-fallback-dialer.yaml` | `clash-fallback-all.yaml` | `clash-all-fallback.yaml` | `config.yaml` | `config.yaml` | `Clash.yaml` | `MihomoAIO.yaml` | `MihomoProPlus.yaml` | `MihomoProMax.yaml` | `ConfigForClash.yaml` | `config.yaml` | `AIO.yaml` | `AIB.yaml` | `config_lite.yaml` | `config.yaml` | `us_la.yaml` | `Clash-Airport.yaml` | `mihomo_multi.yaml` | `mihomo_single.yaml` | `Clash_Sample.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 12.4 KB | 18.7 KB | 22.6 KB | 12.4 KB | 28.5 KB | 33.6 KB | 17.6 KB | 34.0 KB | 17.3 KB | 15.9 KB | 16.3 KB | 18.6 KB | 17.2 KB | 12.8 KB | 13.8 KB | 27.3 KB | 30.1 KB | 27.9 KB | 27.4 KB | 49.3 KB | 27.5 KB | 11.1 KB | 11.0 KB | 3.0 KB | 8.2 KB | 20.7 KB | 18.4 KB | 17.1 KB | 16.8 KB | 12.5 KB |
+| **大小** | 12.4 KB | 18.7 KB | 22.6 KB | 12.4 KB | 28.5 KB | 33.6 KB | 17.6 KB | 34.0 KB | 17.3 KB | 15.9 KB | 16.3 KB | 18.6 KB | 17.2 KB | 12.8 KB | 13.8 KB | 27.3 KB | 30.1 KB | 27.9 KB | 27.4 KB | 49.3 KB | 27.5 KB | 11.1 KB | 11.0 KB | 3.0 KB | 8.2 KB | 20.9 KB | 18.6 KB | 17.1 KB | 16.8 KB | 12.5 KB |
 | **混合端口** | 0 | 7892 | 7893 | 7893 | 7893 | 7890 | 7890 | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7890 | 7890 | 7893 | 7893 | 7893 | 7892 | 7890 | 7890 | 7890 | 7893 | 7893 | 0 | 0 | 7897 | 7897 | 7892 |
 | **面板地址** | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | :9090 | :9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | - | 127.0.0.1:9092 | 127.0.0.1:9092 | - | - | 0.0.0.0:9090 |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
 | **TUN** | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **策略组** | **18** | **13** | **52** | **15** | **25** | **59** | **47** | **62** | **36** | **34** | **35** | **61** | **53** | **26** | **29** | **27** | **61** | **54** | **54** | **62** | **96** | **24** | **24** | **1** | **18** | **14** | **14** | **55** | **55** | **22** |
-| **规则数** | **18** | **37** | **40** | **23** | **35** | **95** | **38** | **96** | **43** | **43** | **43** | **53** | **42** | **23** | **33** | **68** | **52** | **44** | **45** | **62** | **30** | **34** | **34** | **16** | **26** | **59** | **58** | **22** | **22** | **25** |
+| **规则数** | **18** | **37** | **40** | **23** | **35** | **95** | **38** | **96** | **43** | **43** | **43** | **53** | **42** | **23** | **33** | **68** | **52** | **44** | **45** | **62** | **30** | **34** | **34** | **16** | **26** | **60** | **59** | **22** | **22** | **25** |
 
 ## 📄 配置详情
 
@@ -473,7 +473,7 @@
 ### 👤 SHICHUNHUI88
 
 #### 📝 us_la.yaml
-- **路径**: `SHICHUNHUI88/us_la.yaml` | **大小**: 20.7 KB | [查看源码](https://github.com/Upsi1on/mihomo_yamls/blob/main/THEYAMLS/General_Config/SHICHUNHUI88/us_la.yaml)
+- **路径**: `SHICHUNHUI88/us_la.yaml` | **大小**: 20.9 KB | [查看源码](https://github.com/Upsi1on/mihomo_yamls/blob/main/THEYAMLS/General_Config/SHICHUNHUI88/us_la.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (14个)</summary>
@@ -497,7 +497,7 @@
 </details>
 
 #### 📝 Clash-Airport.yaml
-- **路径**: `SHICHUNHUI88/Clash-Airport.yaml` | **大小**: 18.4 KB | [查看源码](https://github.com/Upsi1on/mihomo_yamls/blob/main/THEYAMLS/General_Config/SHICHUNHUI88/Clash-Airport.yaml)
+- **路径**: `SHICHUNHUI88/Clash-Airport.yaml` | **大小**: 18.6 KB | [查看源码](https://github.com/Upsi1on/mihomo_yamls/blob/main/THEYAMLS/General_Config/SHICHUNHUI88/Clash-Airport.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (14个)</summary>
